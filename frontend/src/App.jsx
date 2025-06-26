@@ -26,6 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
+        New feature 3
         New feature 2
       </p>
     </>
