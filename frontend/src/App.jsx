@@ -27,9 +27,6 @@ function App() {
       </div>
       <p className="read-the-docs">
         New feature 4
-        New feature 3
-        New feature 2
-        New feature 1
       </p>
     </>
   )
